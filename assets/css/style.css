@@ -364,4 +364,17 @@ section{
 }
 #buttonForm{
     text-align: center;
+}footer{
+    color: white;
+    text-align: center;
+}
+#footer{
+        background-color: #007BFF;
+        height: 5rem;
+        font-style: oblique;
+        font-size: 1.5rem;
+        font-weight: bold;
+}
+.textFooter{
+        padding-top: 1.5rem;
 }
