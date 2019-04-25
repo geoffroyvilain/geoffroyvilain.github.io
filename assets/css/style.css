@@ -38,7 +38,7 @@ body{
 /*DEBUT IDENTITY*/
 .identity{
   background: black; 
-  width: 101%;
+  width: 100.1%;
   height: 10rem;
   position: absolute;
   margin-top: 10%;
@@ -47,7 +47,6 @@ body{
 }
 .data{
   text-align: center;
-  
   color: #fff;
   font-family: poppins;
   font-size: 3rem;
